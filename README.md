@@ -1,2 +1,5 @@
 # csvconf2019
-Materials for my 2019 csvconf talk
+
+## Bash <3's CSVs
+
+Materials for my 2019 csvconf talk on doing some basic command line analysis in Bash.
